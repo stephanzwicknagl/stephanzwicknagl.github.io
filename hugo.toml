@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'Stephan Zwicknagl'
 theme = 'archie'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
 ***REMOVED***mode="toggle" # color-mode → light,dark,toggle or auto
 ***REMOVED***useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
