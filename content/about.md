@@ -10,4 +10,4 @@ toc: false
 
 ## Hi there, I'm Stephan 👋
 
-Software Developer
+Software Engineer
