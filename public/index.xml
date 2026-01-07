@@ -1,46 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hi, there, i&#39;m stephan on Stephan Zwicknagl</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in hi, there, i&#39;m stephan on Stephan Zwicknagl</description>
+    <title>i build intuitive tools for complex problems on stephan zwicknagl</title>
+    <link>https://stephanzwicknagl.github.io/</link>
+    <description>Recent content in i build intuitive tools for complex problems on stephan zwicknagl</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://stephanzwicknagl.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://stephanzwicknagl.github.io/about/</link>
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://stephanzwicknagl.github.io/about/</guid>
       <description>&lt;h2 id=&#34;hi-there-im-stephan-&#34;&gt;Hi there, I&amp;rsquo;m Stephan 👋&lt;/h2&gt;&#xA;&lt;p&gt;Software Engineer&lt;/p&gt;</description>
     </item>
     <item>
       <title>my resume</title>
-      <link>http://localhost:1313/cv/</link>
+      <link>https://stephanzwicknagl.github.io/resume/</link>
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cv/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;resume.pdf&#34;&gt;Download Resume&lt;/a&gt;&lt;/p&gt;&#xA;&lt;embed src= &#34;resume.pdf&#34; width= &#34;100%&#34; height= &#34;1000px&#34; type=&#34;application/pdf&#34; &gt;</description>
+      <guid>https://stephanzwicknagl.github.io/resume/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;resume.pdf&#34;&gt;download resume&lt;/a&gt;&lt;/p&gt;&#xA;&lt;embed src= &#34;resume.pdf&#34; width= &#34;100%&#34; height= &#34;1000px&#34; type=&#34;application/pdf&#34; &gt;</description>
     </item>
     <item>
       <title>degreedle</title>
-      <link>http://localhost:1313/projects/degreedle/</link>
+      <link>https://stephanzwicknagl.github.io/projects/degreedle/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/degreedle/</guid>
+      <guid>https://stephanzwicknagl.github.io/projects/degreedle/</guid>
       <description>&lt;p&gt;building a degree unit conversion game using react native and typescript&lt;/p&gt;</description>
     </item>
     <item>
+      <title>gathio bug fix</title>
+      <link>https://stephanzwicknagl.github.io/projects/gathio/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://stephanzwicknagl.github.io/projects/gathio/</guid>
+      <description>&lt;p&gt;Identified and resolved calendar bug by tracing and debugging issue&#xA;through unfamiliar codebase. Submitted PR that was merged into production.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>viasp</title>
-      <link>http://localhost:1313/projects/viasp/</link>
+      <link>https://stephanzwicknagl.github.io/projects/viasp/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/viasp/</guid>
-      <description>&lt;p&gt;a dashboard for visualizing ASP encodings and their stable models. I worked on this project during my master&amp;rsquo;s thesis and continued to develop it for potassco afterwards. It is built using a ReactJS frontend and a python flask backend and a sqlite database.&lt;/p&gt;</description>
+      <guid>https://stephanzwicknagl.github.io/projects/viasp/</guid>
+      <description>&lt;p&gt;a dashboard for visualizing ASP encodings and their stable models.&#xA;I started work on this project during in my graduate research,&#xA;then continued to develop it for potassco solutions.&#xA;It is built on a ReactJS frontend, a Python (flask) backend, and a sqlite database.&lt;/p&gt;</description>
     </item>
     <item>
       <title>skype waddle</title>
-      <link>http://localhost:1313/projects/skypewaddle/</link>
+      <link>https://stephanzwicknagl.github.io/projects/skypewaddle/</link>
       <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/skypewaddle/</guid>
+      <guid>https://stephanzwicknagl.github.io/projects/skypewaddle/</guid>
       <description>&lt;p&gt;A dash based web app for reviewing skype habits. It uses the personal data, available from your skype account, to generate visualizations of your skype conversations.&lt;/p&gt;</description>
     </item>
   </channel>

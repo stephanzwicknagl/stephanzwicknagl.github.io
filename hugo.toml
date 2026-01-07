@@ -1,7 +1,7 @@
 baseURL = 'https://stephanzwicknagl.github.io/'
 languageCode = 'en-us'
-title = 'Stephan Zwicknagl'
-theme = 'archie'
+title = 'stephan zwicknagl'
+theme = 'bowie'
 googleAnalytics = 'M13YWWB9ZQ'
 
 [caches]
@@ -12,7 +12,7 @@ googleAnalytics = 'M13YWWB9ZQ'
 mode="dark" # color-mode → light,dark,toggle or auto
 useCDN=true # don't use CDNs for fonts and icons, instead serve them locally.
 mainSections="projects"
-mainSectionsTitle="projects and contributions"
+mainSectionsTitle="my projects and contributions"
 
 [[params.social]]
 name = "GitHub"
@@ -36,10 +36,10 @@ weight = 2
 
 [[menu.main]]
 name = "~/resume"
-url = "/cv"
+url = "/resume"
 weight = 3
 
-[[menu.main]]
-name = "~/about"
-url = "/about"
-weight = 4
+# [[menu.main]]
+# name = "~/about"
+# url = "/about"
+# weight = 4

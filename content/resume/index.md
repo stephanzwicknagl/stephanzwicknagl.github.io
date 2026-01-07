@@ -7,6 +7,6 @@ tags:
 toc: false
 ---
 
-[Download Resume](resume.pdf)
+[download resume](resume.pdf)
 
 {{< pdfReader "resume.pdf" >}}

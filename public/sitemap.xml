@@ -2,29 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://stephanzwicknagl.github.io/about/</loc>
     <lastmod>2025-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://stephanzwicknagl.github.io/</loc>
     <lastmod>2025-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cv/</loc>
+    <loc>https://stephanzwicknagl.github.io/resume/</loc>
     <lastmod>2025-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/degreedle/</loc>
+    <loc>https://stephanzwicknagl.github.io/projects/degreedle/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://stephanzwicknagl.github.io/projects/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/viasp/</loc>
+    <loc>https://stephanzwicknagl.github.io/projects/gathio/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stephanzwicknagl.github.io/projects/viasp/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/skypewaddle/</loc>
+    <loc>https://stephanzwicknagl.github.io/projects/skypewaddle/</loc>
     <lastmod>2023-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://stephanzwicknagl.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://stephanzwicknagl.github.io/tags/</loc>
   </url>
 </urlset>
