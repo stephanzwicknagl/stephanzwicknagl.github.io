@@ -6,8 +6,15 @@
     <description>Recent content in i build intuitive tools for complex problems on stephan zwicknagl</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://stephanzwicknagl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>auto-anki-tasks</title>
+      <link>https://stephanzwicknagl.github.io/projects/auto-anki-tasks/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://stephanzwicknagl.github.io/projects/auto-anki-tasks/</guid>
+      <description>&lt;p&gt;a utility to automatically run tasks on Anki cards — currently supporting deck organization and text-to-speech audio generation via Google Cloud TTS&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About me</title>
       <link>https://stephanzwicknagl.github.io/about/</link>
