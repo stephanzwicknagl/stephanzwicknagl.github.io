@@ -1,4 +1,4 @@
----
+--- 
 title: degreedle
 description:
   building a degree unit conversion app to intuit C/F conversion using react native, typescript, and rust (rocket)
